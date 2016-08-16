@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+}
+header {
+  position:absolute;
+  left:0;
+  right:0;
+  top:40%;
+}
+h1 {
+  color:#FFF;
+  font-family: "Quarto A", "Quarto B", Quarto, Georgia, sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 9em;
+  letter-spacing: -1.5px;
+  text-shadow: 0px 2px 4px rgba(0,0,0,0.20);
+  vertical-align: middle;
+  line-height: 150px;
+}
+h1 span {
+  color: #000;
+}
+section {
+  width:50%;
+  height:100vh;
+  overflow:hidden;
+  display:inline-block;
+  margin:0;
+  padding:0;
+  float: left;
+  word-wrap: break-word;
+}
+section img {
+  width:100%;
+  height:auto;
+}
+a {
+  font-family: "Tungsten A", "Tungsten B";
+  font-style: normal;
+  font-weight: 600;
+}
